@@ -1,9 +1,9 @@
-## Hello 👋
-I’m Nakul, a Backend Developer and Cloud Architect.
+### Hello 👋
+I’m Nakul, a **Backend Developer** and **Cloud Architect**.
 
-I focus on building scalable APIs and deploying applications on the Cloud.
+I focus on building scalable APIs and deploying them on the cloud.
 
-## Skills
+### Skills 🚀
 - Python, Go, FastAPI, Fiber
 - SQL, MongoDB
 - Git, Docker
