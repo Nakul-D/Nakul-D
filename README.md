@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello 👋
+I’m Nakul, a Backend Developer and Cloud Architect.
 
-<!--
-**Nakul-D/Nakul-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on building scalable APIs and deploying applications on the Cloud.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, Go, FastAPI, Fiber
+- SQL, MongoDB
+- Git, Docker
+- AWS (2 certifications)
+  - [Amazon Web Services Cloud Practitioner](https://www.credly.com/badges/d5cf3246-28b5-4c65-8cba-711c7b83823f/public_url)
+  - [Amazon Web Services Certified Developer - Associate](https://www.credly.com/badges/7faa9ebe-afd3-4df5-a3f5-d8da4f434134/public_url)
